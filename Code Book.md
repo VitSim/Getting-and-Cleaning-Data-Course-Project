@@ -1,17 +1,21 @@
-# Getting-and-Cleaning-Data-Course-Project
-this is my project for Getting and Cleaning Data Course
-You should downlaod and unzip the data file in your course directory
+# Code Book for Getting-and-Cleaning-Data-Course-Project
+this is the list of variables in the tidy dataset
 
-"subject"                  "activity"                
+## ID of the tidy datset
 
-"tBodyAccMeanX"
-"tBodyAccMeanY"           
-"tBodyAccMeanZ"
-"tBodyAccStdX"
-"tBodyAccStdY"
-"tBodyAccStdZ"            
-"tGravityAccMeanX"
-"tGravityAccMeanY"        
+* subject - ID of the subject (test or training)
+* activity - type of activity performed. WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING                
+
+## Features or measurements
+
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
+* tGravityAccMeanX
+* tGravityAccMeanY"        
 "tGravityAccMeanZ"
 "tGravityAccStdX"         
 "tGravityAccStdY"
