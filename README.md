@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 this is my project for Getting and Cleaning Data Course
-##You should downlaod and unzip the data file in your course directory
+##You should downlaod and unzip the data file (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) in your course directory
 
 The R script called run_analysis.R can do:
 * 1. Load both the traing and the test datasets and merge them in one file
