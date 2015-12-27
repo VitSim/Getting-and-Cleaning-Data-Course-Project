@@ -11,3 +11,5 @@ The R script called run_analysis.R can do:
 * 6. Group a tidy dataset for each subject and activity and calculate the average (mean) for all the other columns.
 * 7. Export this tidy dataset in the file tidy.txt
 
+In the R script run_analysis.R there is a step by step explanation.
+
